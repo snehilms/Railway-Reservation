@@ -1,0 +1,61 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+struct train
+    {
+	char source[50];
+	char dest[50];
+	int train_num;
+	int seats_left;
+    };
+struct ticket
+   {
+   char passenger_name[50];
+   int pnr;
+   int train_num;
+
+
+   };
+
+int main()
+{ FILE *fp;
+    fp=fopen("ticketfile.txt","w");
+struct ticket a[2];
+char p[20]="hello";
+//a[0].passenger_name="hello";
+a[0].pnr=3;
+char buffer=28;
+char *x=&buffer;
+   // fputs(a[0].passenger_name,fp);//input all the data into the file.
+               fpu
+.....
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+struct train
+    {
+	char source[50];
+	char dest[50];
+	int train_num;
+	int seats_left;
+    };
+struct ticket
+   {
+   char passenger_name[50];
+   int pnr;
+   int train_num;
+
+
+   };
+
+int main()
+{ FILE *fp;
+    fp=fopen("ticketfile.txt","w");
+struct ticket a[2];
+char p[20]="hello";
+//a[0].passenger_name="hello";
+a[0].pnr=3;
+char buffer=28;
+char *x=&buffer;
+   // fputs(a[0].passenger_name,fp);//input all the data into the file.
+               fpu
