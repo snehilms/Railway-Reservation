@@ -1,0 +1,4 @@
+yash 11071 Amritsar 2000
+Raj 11081 Ujjain 3500
+Mohit 11069 Varanasi 2500
+Mannan 11080 Dehradun 3000
