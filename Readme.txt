@@ -34,8 +34,7 @@ Known Requirement of the code:
 2.Please write the names wherever asked as input in the same format as entered during booking of the ticket.
 #############################################################
 Contributions of the team members:
-Snehil did modules 2.(data.txt), 5.(enquiry(),ticketdetails()), 6.train_ticket() and 7.cancel()
-Abhijith did modules 3.(old_record(),booking.txt) and 6.(PNR No, Seats left, increment_seat_no(),decrement_seat_no()).
-Pranshu did modules 1.(Made the structures) and 4.(Menu driven choices), 7.cancel() and (intendation and addition of comments).
-All of us collectively debugged the code. 
+Snehil
+Abhijith 
+Pranshu 
 #############################################################
